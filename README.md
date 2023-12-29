@@ -1,5 +1,5 @@
 # WasteSeg
-Through this model, I have attempted building a model that could classify images of waste materials into various categories.
+Through this model, I have attempted building a model that could classify images of waste materials into various categories: cardboard, paper, plastic, glass, metal and trash.
 <br>
 <h2>Applications</h2>
 <b>1.Automated Recycling Facilities:</b> can help streamlines sorting processes in recycling centers.<br>
