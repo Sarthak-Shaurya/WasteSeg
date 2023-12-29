@@ -13,5 +13,5 @@ Through this model, I have attempted building a model that could classify images
 <b>9.Compliance Monitoring:</b> Helps enforce waste management regulations.<br>
 
 <h2>Dataset</h2>
-Garbage Image Dataset from Kaggle
+Garbage Image Dataset from Kaggle:
 <url>https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset</url>
