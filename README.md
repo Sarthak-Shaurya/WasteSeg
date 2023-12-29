@@ -14,3 +14,4 @@ Through this model, I have attempted building a model that could classify images
 
 <h2>Dataset</h2>
 Garbage Image Dataset from Kaggle
+<url>https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset</url>
